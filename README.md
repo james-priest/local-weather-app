@@ -8,7 +8,7 @@ It is built using Semantic UI, jQuery, Geolocation API, SVG, CSS3 Animation, Aja
 
 You can test it at the following link.
 
-- Live Demo - [http://local-weather-app.netlify.com](http://local-weather-app.netlify.com/)
+- Live Demo - [https://local-weather-app.netlify.app/](https://local-weather-app.netlify.app/)
 
 See below for [screenshots](#screenshots).
 
